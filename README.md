@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Ebuka Eboh 👋
 
-<!--
-**ebukaeboh/ebukaeboh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer building practical, real-world projects | Focused on AI & problem-solving
 
-Here are some ideas to get you started:
+🔭 Currently building: AI tools with Python
+🌱 Learning: Machine Learning, Python
+💡 Interested in: AI for real everyday problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Top Projects
+- 🍎 Fresh-or-Rotten — AI that checks fruit quality from photos
+- 📦 Inventory Stock Analysis — Analysing stock levels with Python to prevent stockouts
+- 📈 Demand Prediction ML — Predicting next month's demand with machine learning
+
+### Tech I Use
+Python | Git & GitHub
